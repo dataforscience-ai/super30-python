@@ -24,7 +24,12 @@ Output
 Hello Super30
 My Python environment is ready 
 Executed successfully in terminal
-
+## VS Code Setup
+IDE Used : Visual Studio Code
+Extensions Installed
+-python
+-Pylance
+-Jupyter
 
 
  
