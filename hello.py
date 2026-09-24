@@ -1,2 +1,2 @@
-print("Hello, Super30!")
-print ("My Python Environment is ready")
+print("Hello Super30")
+print ("My Python environment is ready")
