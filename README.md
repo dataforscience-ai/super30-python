@@ -30,6 +30,7 @@ Extensions Installed
 -python
 -Pylance
 -Jupyter
-
+## Environment Verification Screeshot
+Terminal output.png
 
  
